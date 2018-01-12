@@ -80,6 +80,7 @@
                 <p> Help! </p>
             </field>
         </record>
+        -->
         <!-- Per a fer un desplegable s'ha de crear els fills del pare amb el atribut parent="id_del_pare" -->
 <!--        <menuitem action="action_esports_persona" id="menu_esports_persona" name="Persona"/>
 
